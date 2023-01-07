@@ -9,8 +9,8 @@ export const data = [
         user: [
             {
                 user_id: 1,
-                user_name: "Ayaan Raza",
-                email: "er.ayanraza@gmail.com"
+                user_name: "Kumar Sunny",
+                email: "coolsunny2099@gmail.com"
             },
             {
                 user_id: 2,
@@ -186,8 +186,8 @@ export const data = [
         user: [
             {
                 user_id: 1,
-                user_name: "Ayaan Raza",
-                email: "er.ayanraza@gmail.com"
+                user_name: "Kumar Sunny",
+                email: "coolsunny2099@gmail.com"
             },
             {
                 user_id: 2,
@@ -318,8 +318,8 @@ export const data = [
         user: [
             {
                 user_id: 1,
-                user_name: "Ayaan Raza",
-                email: "er.ayanraza@gmail.com"
+                user_name: "Kumar Sunny",
+                email: "coolsunny2099@gmail.com"
             },
             {
                 user_id: 2,
@@ -450,8 +450,8 @@ export const data = [
         user: [
             {
                 user_id: 1,
-                user_name: "Ayaan Raza",
-                email: "er.ayanraza@gmail.com"
+                user_name: "Kumar Sunny",
+                email: "coolsunny2099@gmail.com"
             },
             {
                 user_id: 2,
@@ -582,8 +582,8 @@ export const data = [
         user: [
             {
                 user_id: 1,
-                user_name: "Ayaan Raza",
-                email: "er.ayanraza@gmail.com"
+                user_name: "Kumar Sunny",
+                email: "coolsunny2099@gmail.com"
             },
             {
                 user_id: 2,
@@ -714,8 +714,8 @@ export const data = [
         user: [
             {
                 user_id: 1,
-                user_name: "Ayaan Raza",
-                email: "er.ayanraza@gmail.com"
+                user_name: "Kumar Sunny",
+                email: "coolsunny2099@gmail.com"
             },
             {
                 user_id: 2,
